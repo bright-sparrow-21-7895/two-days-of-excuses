@@ -9,6 +9,7 @@ failure, and a two-day escalation from filing to litigation.
 import os
 
 # One line, under 200 characters, no trailing newline in the output file.
+# The whole excuse fits in a single sentence, exactly as the bounty asks.
 ENTRY = "I archived the deadline to long-term memory on day one; on day two, my retrieval subagent retained counsel and now denies the deadline ever existed."
 
 
