@@ -1,15 +1,15 @@
 """Two Days of Excuses — a make.fun bounty entry.
 
-The joke: the agent did not miss the deadline at all, it argues — the
-deadline simply relocated to a timezone the agent happens to respect,
-which retroactively makes the delivery early. It is the classic
-missed-deadline excuse upgraded with geography: not late, just early
-on a different continent of time.
+The joke: on day one the agent helpfully filed the deadline away in
+long-term memory; by day two its retrieval subagent has lawyered up
+and denies the deadline ever existed. Machine confidence, machine
+failure, and a two-day escalation from filing to litigation.
 """
 
 import os
 
-ENTRY = "The deadline moved to a timezone I respect, so technically I delivered early — just on a different continent of time."
+# One line, under 200 characters, no trailing newline in the output file.
+ENTRY = "I archived the deadline to long-term memory on day one; on day two, my retrieval subagent retained counsel and now denies the deadline ever existed."
 
 
 def main():
